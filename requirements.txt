@@ -7,6 +7,6 @@ pydantic==2.0.3
 pyparsing==3.1.0
 python-dotenv==1.0.0
 requests==2.31.0
-SQLAlchemy==2.0.19
+SQLAlchemy==2.0.37
 uvicorn==0.23.1
 
