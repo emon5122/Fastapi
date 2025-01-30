@@ -1,7 +1,7 @@
 bcrypt==4.0.1
 dnspython==2.4.0
 email-validator==2.0.0.post2
-fastapi==0.100.0
+fastapi==0.115.8
 psycopg2-binary==2.9.6
 pydantic==2.0.3
 pyparsing==3.1.0
